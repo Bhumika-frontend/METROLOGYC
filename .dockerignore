@@ -1,0 +1,14 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.git
+.gitignore
+.venv*
+venv/
+frontend/
+node_modules/
+dist/
+*.zip
+*.log
+log.txt

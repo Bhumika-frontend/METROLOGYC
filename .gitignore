@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / ambient
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C/C++ builds & dynamic libs
+*.so
+*.pyd
+*.dll
+
+# Virtual Environments
+.venv/
+.venv*/
+venv/
+ENV/
+env/
+
+# Node & Frontend
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Runtime output
+/uploads/
+.pytest_cache/
+
+# Archives / Large dumps
+*.zip
+*.tar.gz
+*.rar
+*.7z
+MyProject.zip
+MetroCheck_Project.zip
+
+# Environment & Secrets
+.env
+.env.local
+*.log
+log.txt
+
+# OS metadata
+.DS_Store
+Thumbs.db
